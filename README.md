@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Ubi-TaC-OPs Pages
 
-You can use the [editor on GitHub](https://github.com/utcop/utcop.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ubiquitous Tactical Communication & Operations Platform. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### TOC
+A tactical operations center (TOC) is a command post for police, paramilitary, or military operations. A TOC usually includes a small group of specially trained officers or military personnel who guide members of an active tactical element during a mission.
 
-### Markdown
+Most permanent tactical operations centers are highly technical and contain a number of advanced computer systems for monitoring operational progress and maintaining communications with operators in the field. One of the best-known TOCs is NORAD which houses the North American Military Aerospace Defense operations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TOC Officers are usually positioned in a way that enables line-of-sight communication between team members, as well as overall communication with the TOC operations officer (or commander). Common configurations include center-facing monitors and against the wall monitors. Larger TOCs have a location where senior leaders are able to sit and observe operations of subordinate units. Smaller TOCs and field TOCs can be created in the back of vans and trucks, as well as in tents and buildings by setting up computers and linking in communication equipment.
 
-```markdown
-Syntax highlighted code block
+### Command and control
+Command and control or C2 is a "set of organizational and technical attributes and processes ... [that] employs human, physical, and information resources to solve problems and accomplish missions" to achieve the goals of an organization or enterprise, according to a 2015 definition by military scientists Marius Vassiliou, David S. Alberts and Jonathan R. Agre, The term often refers to a military system.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/utcop/utcop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

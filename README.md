@@ -1,6 +1,6 @@
 ## Welcome to Ubi-TaC-OPs Pages
 
-Ubiquitous Tactical Communication & Operations Platform. 
+Ubiquitous TaCtical Operations. 
 
 ### TOC
 A tactical operations center (TOC) is a command post for police, paramilitary, or military operations. A TOC usually includes a small group of specially trained officers or military personnel who guide members of an active tactical element during a mission.

@@ -6,10 +6,10 @@
 
 ## 方法论
 
-* [组织永续发展](fang-fa-lun/zu-zhi-yong-xu-fa-zhan.md)
 * [信息化资产全在线](fang-fa-lun/xin-xi-hua-zi-chan-quan-zai-xian.md)
 * [全在线业务高可用](fang-fa-lun/quan-zai-xian-ye-wu-gao-ke-yong.md)
   * [变更管理](fang-fa-lun/quan-zai-xian-ye-wu-gao-ke-yong/bian-geng-guan-li.md)
+* [组织永续发展战略](fang-fa-lun/zu-zhi-yong-xu-fa-zhan-zhan-lve.md)
 
 ## 技术栈
 

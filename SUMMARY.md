@@ -3,7 +3,7 @@
 ## 概述
 
 * [首页](README.md)
-* [关于](guan-yu.md)
+* [关于](/about.md)
 
 ## 方法论
 
@@ -20,7 +20,12 @@
 
 ## 服务包
 
-* [导入咨询](fu-wu-bao/utcopdao-ru-zi-xun.md)
+* [组织转型咨询](fu-wu-bao/zu-zhi-zhuan-xing-zi-xun.md)
+* [UTCOP版本订阅](fu-wu-bao/utcopban-ben-ding-yue.md)
+* [定制化专业服务](fu-wu-bao/ding-zhi-hua-zhuan-ye-fu-wu.md)
+* [开发者社群](fu-wu-bao/kai-fa-zhe-she-qun.md)
 
 ## 解决方案
+
+
 

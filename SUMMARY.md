@@ -2,8 +2,8 @@
 
 ## 概述
 
-* [简介](/README.md)
-* [概念](chapter1.md)
+* [简介](README.md)
+* [概念](gai-nian.md)
 
 ## 方法论
 

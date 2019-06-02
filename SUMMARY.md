@@ -12,7 +12,6 @@
   * [变更管理](fang-fa-lun/quan-zai-xian-ye-wu-gao-ke-yong/bian-geng-guan-li.md)
   * [DevOps](fang-fa-lun/quan-zai-xian-ye-wu-gao-ke-yong/devops.md)
 * [组织永续发展战略](fang-fa-lun/zu-zhi-yong-xu-fa-zhan-zhan-lve.md)
-  * [知识管理螺旋](fang-fa-lun/zu-zhi-yong-xu-fa-zhan-zhan-lve/zhi-shi-guan-li-luo-xuan.md)
 
 ## 技术栈
 
@@ -26,6 +25,4 @@
 * [开发者社群](fu-wu-bao/kai-fa-zhe-she-qun.md)
 
 ## 解决方案
-
-
 

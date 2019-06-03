@@ -1,6 +1,6 @@
 # UTCOP概述
 
-UTCOP 代表“统一技术融合开放平台” （Unified Technology Convergence Open Platform），UTCOP包含三位一体的方法论、技术栈、服务包:
+UTCOP 代表“统一技术融合开放平台” （United Technology Convergence Open Platform），UTCOP包含三位一体的方法论、技术栈、服务包:
 
 ![](/assets/Methodology-Technology-Service.png)
 

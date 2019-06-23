@@ -15,8 +15,8 @@
 
 ## 技术栈
 
-* [云原生](ji-zhu-zhan/yun-yuan-sheng.md)
 * [总体架构](ji-zhu-zhan/zong-ti-jia-gou.md)
+* [云原生](ji-zhu-zhan/yun-yuan-sheng.md)
 
 ## 服务包
 

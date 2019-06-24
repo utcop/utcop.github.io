@@ -23,10 +23,8 @@
 
 * [组织转型咨询](service-package/organizational-trastromatin-consulting.md)
 * [UTCOP版本订阅](service-package/utcop-distribution-subscription.md)
-* [定制化专业服务](service-package/customized-professional-servicemd)
+* [定制化专业服务](service-package/customized-professional-service.md)
 * [开发者社群](service-package/developer-community.md)
 
 ## Solution
-
-
 

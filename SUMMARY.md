@@ -8,10 +8,11 @@
 ## 方法论
 
 * [信息化资产全在线](fang-fa-lun/xin-xi-hua-zi-chan-quan-zai-xian.md)
+  * [Business Process Performance Modeling](fang-fa-lun/xin-xi-hua-zi-chan-quan-zai-xian/business-process-performance-modeling.md)
 * [全在线业务高可用](fang-fa-lun/quan-zai-xian-ye-wu-gao-ke-yong.md)
   * [变更管理](fang-fa-lun/quan-zai-xian-ye-wu-gao-ke-yong/bian-geng-guan-li.md)
   * [DevOps](fang-fa-lun/quan-zai-xian-ye-wu-gao-ke-yong/devops.md)
-* [组织永续发展战略](fang-fa-lun/zu-zhi-yong-xu-fa-zhan-zhan-lve.md)
+* [技术永续发展战略](fang-fa-lun/zu-zhi-yong-xu-fa-zhan-zhan-lve.md)
 
 ## 技术栈
 
@@ -25,5 +26,5 @@
 * [定制化专业服务](fu-wu-bao/ding-zhi-hua-zhuan-ye-fu-wu.md)
 * [开发者社群](fu-wu-bao/kai-fa-zhe-she-qun.md)
 
-## 解决方案
+## Solution
 

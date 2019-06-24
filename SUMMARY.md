@@ -7,24 +7,24 @@
 
 ## 方法论
 
-* [信息化资产全在线](fang-fa-lun/xin-xi-hua-zi-chan-quan-zai-xian.md)
-  * [Business Process Performance Modeling](fang-fa-lun/xin-xi-hua-zi-chan-quan-zai-xian/business-process-performance-modeling.md)
-* [全在线业务高可用](fang-fa-lun/quan-zai-xian-ye-wu-gao-ke-yong.md)
-  * [DevOps](fang-fa-lun/quan-zai-xian-ye-wu-gao-ke-yong/devops.md)
-    * [Change Management](fang-fa-lun/quan-zai-xian-ye-wu-gao-ke-yong/devops/change-management.md)
-* [技术永续发展战略](fang-fa-lun/zu-zhi-yong-xu-fa-zhan-zhan-lve.md)
+* [信息化资产全在线](methodology/all-information-assert-online.md)
+  * [Business Process Performance Modeling](methodology/all-information-assert-online/business-process-performance-modeling.md)
+* [全在线业务高可用](methodology/high-availability-of-online-businesses.md)
+  * [DevOps](methodology/high-availability-of-online-businesses/devops.md)
+    * [Change Management](methodology/high-availability-of-online-businesses/devops/change-management.md)
+* [技术永续发展战略](methodology/technology-sustainable-strategy.md)
 
 ## 技术栈
 
-* [总体架构](ji-zhu-zhan/zong-ti-jia-gou.md)
-* [云原生](ji-zhu-zhan/yun-yuan-sheng.md)
+* [总体架构](technology-stack/architecture.md)
+* [云原生](technology-stack/cloud-native.md)
 
 ## 服务包
 
-* [组织转型咨询](fu-wu-bao/zu-zhi-zhuan-xing-zi-xun.md)
-* [UTCOP版本订阅](fu-wu-bao/utcopban-ben-ding-yue.md)
-* [定制化专业服务](fu-wu-bao/ding-zhi-hua-zhuan-ye-fu-wu.md)
-* [开发者社群](fu-wu-bao/kai-fa-zhe-she-qun.md)
+* [组织转型咨询](service-package/organizational-trastromatin-consulting.md)
+* [UTCOP版本订阅](service-package/utcop-distribution-subscription.md)
+* [定制化专业服务](service-package/customized-professional-servicemd)
+* [开发者社群](service-package/developer-community.md)
 
 ## Solution
 

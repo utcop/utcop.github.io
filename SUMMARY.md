@@ -12,7 +12,7 @@
 * [敏捷化业务高可用](methodology/high-availability-of-agile-businesses.md)
   * [DevOps](methodology/high-availability-of-online-businesses/devops.md)
     * [Change Management](methodology/high-availability-of-online-businesses/devops/change-management.md)
-* [多来源技术全自主](methodology/sustainable-multi-source-technology.md)
+* [多来源技术可持续](methodology/sustainable-multi-source-technology.md)
 
 ## 技术栈
 
